@@ -5,7 +5,7 @@ import streamlit as st
 # import openai
 # from llama_index import SimpleDirectoryReader
 
-st.title("I guess your team is also using streamlit for your hackathon huh...")
+st.title("Well... guess your team is also using streamlit for hackathon huh...")
 st.title(" I'll keep an eye on you...👀")
 
 
